@@ -4,9 +4,9 @@ echo "hi"
 
 if [[ "$1" == "err" ]]
 then
-  echo "error"
+  echo "error 1"
   exit 1
 else
-  echo "works"
+  echo "works 0"
   exit 0
 fi
