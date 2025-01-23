@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "hi"
+echo "hi hello"
 
 if [[ "$1" == "err" ]]
 then
